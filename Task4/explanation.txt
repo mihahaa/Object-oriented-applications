@@ -1,0 +1,1 @@
+Java application that simulates a game where a mole that is peeking out of hole and you return it back in the hole by clicking on it.
